@@ -1,2 +1,2 @@
 # ubuntu
-Ubuntu Pkg
+Ubuntu Package.
